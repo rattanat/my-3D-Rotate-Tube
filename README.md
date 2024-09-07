@@ -37,7 +37,7 @@ Feel free to customize the text, fonts, colors, and animation properties to crea
 
 ## Credits
 
-This code was inspired by a design created by Aarzoo on CodePen.
+This code was inspired by a design created by Noon on CodePen.
 
 ## License
 
@@ -45,4 +45,4 @@ This code is released under the [MIT License](LICENSE).
 
 ## Preview
 
-<img width="960" alt="Screenshot 2023-08-30 182954" src="https://github.com/Aarzoo75/3D-Rotate-Tube/assets/59678435/bacfa9cf-fe25-4707-b5e7-d8cb38361144">
+<img width="960" alt="Screenshot 2023-08-30 182954" src="https://github.com/Noon75/3D-Rotate-Tube/assets/59678435/bacfa9cf-fe25-4707-b5e7-d8cb38361144">

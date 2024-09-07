@@ -16,7 +16,7 @@ button:focus {
 
 /* -------- BODY DISPLAY --------- */
 body {
-  background-color: #222;
+  background-color: #def0b2;
   overflow: hidden;
   display: flex;
   justify-content: center;
